@@ -1,2 +1,2 @@
 # Tableau
-tableau work n data analysis
+tableau work and data analysis
